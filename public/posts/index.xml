@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Computing</title>
+    <link>https://rita-2020.github.io/posts/</link>
+    <description>Recent content in Posts on Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Oct 2020 23:38:34 +0200</lastBuildDate><atom:link href="https://rita-2020.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Mural</title>
+      <link>https://rita-2020.github.io/posts/tech-mural/</link>
+      <pubDate>Fri, 23 Oct 2020 23:38:34 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/tech-mural/</guid>
+      <description>  Mural Jorge    </description>
+    </item>
+    
+    <item>
+      <title>My First</title>
+      <link>https://rita-2020.github.io/posts/my-first/</link>
+      <pubDate>Fri, 23 Oct 2020 23:30:53 +0200</pubDate>
+      
+      <guid>https://rita-2020.github.io/posts/my-first/</guid>
+      <description>hi</description>
+    </item>
+    
+  </channel>
+</rss>
