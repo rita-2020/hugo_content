@@ -11,15 +11,19 @@ hugo -D
 # Go To Public folder
 cd public
 
+git status 
+
 # Add changes to git.
 git add .
-
+git status
 # Commit changes.
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then 
         msg="$*"
 fi
-git commit -m "msg"
+git commit -a -m "msg"
+
+git status
 
 # Push source and build repos.
-git push origin master
+git push 
