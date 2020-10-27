@@ -7,7 +7,7 @@ categories: ["computational arabic"]
 ---
 ![Mural by Jorge Gerada](../../img/beirut_mural.png)
 "Connected" by Jorge Rodriguez-Gerada
-![Reportage on "Bala Toul Sire" Future TV](../../img/JorgeGerada.png)
 
+{{< figure src="../../img/JorgeGerada.png" alt="Reportage on Bala Toul Sire, Future TV"  width="640px" >}}
 
 
