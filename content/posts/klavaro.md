@@ -5,4 +5,7 @@ draft: false
 categories: "computational arabic"
 tags: "مصطلحات البرمجة"
 ---
-Terminal: $brew isntall klavaro
+Terminal: $brew install klavaro
+![Klavaro app screenshot](../../img/klavaro_basic.png)
+تمرين الأساسيات. 
+(معلومات اكثر)[https://klavaro.sourceforge.io/ar/index.html]
