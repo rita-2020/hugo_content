@@ -7,5 +7,10 @@ tags: "مصطلحات البرمجة"
 ---
 Terminal: $brew install klavaro
 ![Klavaro app screenshot](../../img/klavaro_basic.png)
-تمرين الأساسيات. 
-(معلومات اكثر)[https://klavaro.sourceforge.io/ar/index.html]
+
+تمرين الأساسيات
+
+[المصدر][klavarosourcecode]
+
+[klavarosourcecode]: https://klavaro.sourceforge.io/ar/index.html 
+
