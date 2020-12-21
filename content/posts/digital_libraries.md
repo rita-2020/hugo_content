@@ -2,6 +2,8 @@
 title: "مورد المكاتب الرقميّة"
 date: 2020-12-20T16:06:52+02:00
 draft: false
+categories: "computational arabic"
+tags: ["المجتمع","مصطلحات البرمجة"]
 ---
 . المجموعات العربية على الانترنت [ACO][acolink]
 . [AUB Libraries Digital Collection][AUBlink]
