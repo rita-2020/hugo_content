@@ -5,9 +5,9 @@ draft: false
 categories: "computational arabic"
 tags: ["المجتمع","مصطلحات البرمجة"]
 ---
-. المجموعات العربية على الانترنت [ACO][acolink]
-. [AUB Libraries Digital Collection][AUBlink]
-. [Memory of the World][MOWlink]
+* المجموعات العربية على الانترنت [ACO][acolink]
+* [AUB Libraries Digital Collection][AUBlink]
+* [Memory of the World][MOWlink]
 
 [acolink]:http://dlib.nyu.edu/aco/
 
