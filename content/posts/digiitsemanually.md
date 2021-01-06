@@ -5,6 +5,13 @@ draft: false
 tags: ["مصطلحات البرمجة"]
 categories: ["computational arabic"]
 ---
+Manually, or using OCR [tesseract][link]
+<br>
+
 ![Screenshot wip](../../img/Screenshot.png)
 
+
+{{< figure src="../../img/searchablepdf.jpg" alt="tesseract run"  width="300px" >}}
+
+[link]:../ocr_tutorial.md
 
