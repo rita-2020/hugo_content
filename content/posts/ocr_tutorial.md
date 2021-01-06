@@ -1,24 +1,29 @@
 ---
-title: "Guide for arabic OCR"
+title: "guide for Arabic OCR"
 date: 2021-01-06T15:05:07+02:00
 draft: false
 categories: ["computational arabic"]
 
 ---
 
-### Using Tesseract 'Optical Character Recognition' for Arabic prints.
+### Using Tesseract 'Optical Character Recognition' for Arabic print scans.
 
-> #### Install Tesseract
+> #### Installing Tesseract
 >
-> - follow [instructions][tut] to install tools (for mac I use HomeBrew, and git clone tessract)
-> - To check if installation is succesfull, type in terminal `tesseract man` for the manual. 
-> - Download the OCR languages needed. In Terminal type `tesseract --list -langs` 
-> - [Post-Installation Instructions][tut2]
-> - download the language files needed and place them at `/usr/local/share/tessdata`
-> - for arabic, download ara.traineddata file from tessdata_best, which is trained at google!
-> - finally, follow the [Command Line Usage][tut3] samples. :)
+> - Follow [instructions][tut] to install tools (for mac I used HomeBrew,& then `git clone tesseract` ) to get a version > 4.
+> - To check if installation was succesfull, type in terminal `tesseract man` to prompt the manual.  
+> - Read [Post-Installation Instructions][tut2] which concerns adding needed languages. 
+> - Download the ara.traineddata file from the [tessdata_best][tut4] repository (which is trained at Google!), and any other need languages.
+> - Place the downloaded .traineddata files in the default location `/usr/local/share/tessdata` for linux & OS X. 
+> - In Terminal type `tesseract --list -langs`, and you should the list of languages you downloaded.
+> - Finally, follow the [Command Line Usage][tut3] samples. :)
+
+
+{{< figure src="../../img/lookabletext.jpeg" alt="Reportage on Bala Toul Sire, Future TV"  width="400px" >}}
 
 
 [tut]:https://tesseract-ocr.github.io/tessdoc/Compiling.html
 [tut2]:https://tesseract-ocr.github.io/tessdoc/Compiling-–-GitInstallation.html#post-install-instructions 
 [tut3]:https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html#simplest-invocation-to-ocr-an-image
+[tut4]:https://github.com/tesseract-ocr/tessdata_best
+
