@@ -10,7 +10,7 @@ categories: ["computational arabic"]
 
 > #### Installing Tesseract
 >
-> - Follow [instructions][tut] to install tools (for mac I used HomeBrew,& then `git clone tesseract` ) to get a version > 4.
+> - Follow the [instructions in tesseracts documentation][tut] to install required tools for a version >=4 (for mac I used HomeBrew,& then `git clone tesseract` ). 
 > - To check if installation was succesfull, type in terminal `tesseract man` to prompt the manual.  
 > - Read [Post-Installation Instructions][tut2] which concerns adding needed languages. 
 > - Download the ara.traineddata file from the [tessdata_best][tut4] repository (which is trained at Google!), and any other need languages.
