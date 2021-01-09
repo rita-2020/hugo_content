@@ -3,9 +3,9 @@ title: "guide for Arabic OCR"
 date: 2021-01-06T15:05:07+02:00
 draft: false
 categories: ["computational arabic"]
-
+image: "../../img/crop.png"
 ---
-
+<!--more-->
 ### Using Tesseract 'Optical Character Recognition' for Arabic print scans.
 
 > #### Installing Tesseract

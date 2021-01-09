@@ -4,6 +4,7 @@ date: 2020-10-23T23:38:34+02:00
 draft: false
 tags: ["المجتمع","still"]
 categories: [""]
+image: "../../img/giovanni.png"
 ---
 ![Giovanni_reading](../../img/giovanni.png)
 
