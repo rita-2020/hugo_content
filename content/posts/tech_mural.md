@@ -4,7 +4,11 @@ date: 2020-10-27T11:22:44+01:00
 draft: false
 tags: ["الفن الرقمي","المجتمع","مصطلحات البرمجة"]
 categories: ["computational arabic"]
+header:
+    image: ["../../img/beirut_mural.png"]
+    caption: ["header"]
 ---
+
 ![Mural by Jorge Gerada](../../img/beirut_mural.png)
 "Connected" by Jorge Rodriguez-Gerada
 
