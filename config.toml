@@ -1,13 +1,10 @@
 baseURL = "https://rita-2020.github.io/"
-languageCode = "en-us"
 title = "Computing"
 theme = "sk2"
 publishDir = "public"
-
-
+DefaultContentLanguage = "ar"
 paginate = 6
 enableInlineShortcodes = true
-
 
 [taxonomies]
   tag = "tags"
@@ -18,9 +15,10 @@ enableInlineShortcodes = true
   post = "/:filename/"
 
 [params]
-subtitle = " "
-summary  = true
-toc = false
+  subtitle = " "
+  summary  = true
+  toc = false
+
 
 
 [menus]
